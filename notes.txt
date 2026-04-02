@@ -1,0 +1,37 @@
+1.why python is called as dynamically type language
+python code > byte code> PVM > machne code output
+compiler is a 2 staps sytem
+	1.python is a interperter kanguage 
+	2.python interpreter at runtime it decide the value 
+	3.input functioonn  bydefault acctp only string value 
+	4.33 reverse keyword in python that comses along with python they are inbuilt
+		and or not is if elif import from.............
+		
+when we want do the address comparion then we should go for identtiy operator there are two type of operator
+	1. is 2. is not
+	
+membership operator : by using membership operator we check that the obj is present or not in collection data structure like(list tuple set dict string)
+
+#simple if
+if condition:
+	#statement
+? # write a program to accept phy, chem, and maths subjectss marks calculate total and percentage and if percentage is greater than equal to 60 and gender is equal to male so he is eligible for placement else eligible for data entry job?
+	
+	
+	
+#nested if elif #wap tp accpt value of A, B, C and find max value
+	if condition-1:
+		if condition-2:
+			#statement
+		else:
+			#statement
+	else 
+		if condition3:
+			#Statement
+		else:
+			#statement
+			
+			
+			
+WAP to accept any one character from keyboard and check it is in upper case 
+WAP user entry and character print character user enter any symbol print symbol
