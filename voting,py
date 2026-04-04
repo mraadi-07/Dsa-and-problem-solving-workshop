@@ -1,0 +1,21 @@
+# loigc : Use Moor's voting algorithm to find the majority element.
+#input : [3,3,4,2,4,4,2,4,4]
+#output : 4
+# a = [3,3,4,2,4,4,2,4,4]
+# candidate = None
+# count = 0
+# for num in a:
+#     if count == 0:
+#         candidate = num
+#     count += (1 if num == candidate else -1)
+# print(candidate)
+programming = input("Enter your programming Name :")
+p_name = programming.rstrip()
+if p_name=='python':
+    print(p_name)
+elif p_name=='java':
+    print(p_name)
+elif p_name=='cpp':
+    print(p_name)
+else:
+    print("wrong programming name")
